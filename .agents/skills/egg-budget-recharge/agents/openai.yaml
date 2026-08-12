@@ -1,0 +1,4 @@
+interface:
+  display_name: "鸡蛋经费充值"
+  short_description: "Record and verify egg-budget recharges"
+  default_prompt: "Use $egg-budget-recharge to record a recharge in 鸡蛋经费统计."

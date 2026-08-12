@@ -1,0 +1,4 @@
+interface:
+  display_name: "鸡蛋采购登记"
+  short_description: "Record and verify egg purchase entries"
+  default_prompt: "Use $egg-budget-purchase to record an egg purchase in 鸡蛋经费统计."
